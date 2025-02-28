@@ -7,7 +7,10 @@
   
 试题文件保存在程序根目录“TEST”文件夹中，题目内容格式如下：  
 ![image](https://github.com/ChengLion/AutoTopic_Demo/blob/main/pic/notepad_i1oRkUbDFZ.png)
+  
 M,这是M类型的题目,答案页码,属性;  
 J,这是J类型的题目,答案页码,属性;  
 L,这是L类型的题目,答案页码,属性;  
+M代表名词解释、J代表简答题、L代表论述题  
+  
 试题txt文件标点均为英文字符，字符编码需设置为ANSI。
