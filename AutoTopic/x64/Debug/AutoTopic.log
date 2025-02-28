@@ -1,0 +1,5 @@
+﻿  AutoTopic.cpp
+E:\03 E_Project\VS project\AutoTopic\AutoTopic.cpp(79,77): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\03 E_Project\VS project\AutoTopic\AutoTopic.cpp(80,77): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\03 E_Project\VS project\AutoTopic\AutoTopic.cpp(81,77): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  AutoTopic.vcxproj -> E:\03 E_Project\VS project\AutoTopic\x64\Debug\AutoTopic.exe
